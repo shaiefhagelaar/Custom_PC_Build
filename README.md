@@ -13,7 +13,7 @@ The build will contain two systems:
 - Mini-ITX system
 - ATX / E-ATX system
 
-### Mini-ITX Build
+## Mini-ITX Build
 
 - AMD CPU with integrated graphics
 - Needs to run multiple VM's
@@ -27,7 +27,7 @@ The build will contain two systems:
 - Custom BIOS settings and switching trough the push of a button linked to on/off switch on the back of the case
 - Needs to be reliable
 
-### ATX Build
+## ATX Build
 
 - Mainly for Entertainment/Workstation
 - LLM
@@ -35,14 +35,14 @@ The build will contain two systems:
 - CHROME TABS YES
 - Eventually upgrade it to full frosted hard tubed water cooled
 
-### Upgrades/Notes
+## Upgrades/Notes
 
 - Eventually upgrade it to full frosted hard tubed water cooled
 - Utilise all the fan mounts
 - Radiators
 - Hubs for the fans and/or RGB
 
-#### Custom water cooling:
+## Custom water cooling:
 
 Things to consider whilst building a custom water loop and the items necessary:
 
@@ -121,13 +121,13 @@ No need for the cooling block that is situated above the PSU. The Mini-ITX will 
 
      https://www.performance-pcs.com/products/channelz%E2%84%A2-corsair-9000d-distribution-plate-3-piece-set
 
-### Case
+## Case
 
 Corsair iCUE LINK 9000D RGB AIRFLOW Super-Tower PC Case
 
      https://www.corsair.com/us/en/p/pc-cases/cc-9011273-ww/9000d-rgb-airflow-super-full-tower-pc-case-cc-9011273-ww
 
-#### Case Fans
+### Case Fans
 
 Either I need to get a fan hub or consider buying the corsair daisy chain fans. 120mm to fit with the radiator.
 
@@ -143,15 +143,15 @@ Corsair iCUE LINK RX120 MAX 120mm PWM Thick Fans Starter Kit
 
      https://www.corsair.com/uk/en/p/case-fans/co-9051034-ww/icue-link-rx120-max-rgb-120mm-pwm-thick-fans-starter-kit-black-co-9051034-ww
 
-### Mini-ITX Build
+## Mini-ITX Build
 
-#### Motherboard ASUS PRO WS B850M-ACE SE (AMD,AM5,DDR5,mATX)
+### Motherboard ASUS PRO WS B850M-ACE SE (AMD,AM5,DDR5,mATX)
 
 The motherboard has plenty of capabilities and upgrade potential for quite some years to come. It also supports ECC memory which will come in handy. RAID is also a possibility
 
      https://www.asus.com/motherboards-components/motherboards/workstation/pro-ws-b850m-ace-se/
 
-#### CPU AMD Ryzen™ 5 8600G Desktop Processor
+### CPU AMD Ryzen™ 5 8600G Desktop Processor
 
 CPU is okay to start out with. Integrated GPU processer will cut cost significantly in the short run. I can still upgrade the processor to a AMD 9XXX series if I need more power. In the long run I will upgrade the CPU, rather have some more cores and threads instead of servers in the cloud. The CPU cooler will be upgraded in the future, I'll start off with the included AMD Wraith cooler.
 
@@ -183,6 +183,6 @@ Consider getting a riser cable need to keep in mind that the case holds two syst
 
      https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rx7600-o8g/
 
-### ATX/E-ATX Build
+## ATX/E-ATX Build
 
 Coming soon...
