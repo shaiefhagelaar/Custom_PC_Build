@@ -179,3 +179,7 @@ Solid SSD no pun intended might consider 2TB.
 Consider getting a riser cable need to keep in mind that the case holds two systems. So there might not be enough space for air-cooled GPU's. I can consider upgrading it to a GPU that doesn't need too much wattage, the PSU delivers a maximum of 750 watts KEEP THAT IN MIND.
 
      https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rx7600-o8g/
+
+### ATX/E-ATX Build
+
+Coming soon...
