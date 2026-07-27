@@ -35,11 +35,12 @@ The build will contain two systems:
 - CHROME TABS YES
 - Eventually upgrade it to full frosted hard tubed water cooled
 
-### Upgrades
+### Upgrades/Notes
 
 - Eventually upgrade it to full frosted hard tubed water cooled
 - Utilise all the fan mounts
 - Radiators
+- Hubs for the fans and/or RGB
 
 #### Custom water cooling:
 
@@ -115,6 +116,8 @@ Alphacool Core ATX 24-Pin PSU Jumper (13335)
      https://www.amazon.co.uk/Alphacool-Core-24-Pin-Jumper-13335/dp/B0B719824K
 
 Channelz™ Corsair 9000D Distribution Plate 3-Piece Set
+
+No need for the cooling block that is situated above the PSU. The Mini-ITX will occupy the space where the custom water block should go.
 
      https://www.performance-pcs.com/products/channelz%E2%84%A2-corsair-9000d-distribution-plate-3-piece-set
 
