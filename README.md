@@ -10,22 +10,22 @@ For real the case has enough space to include two separate builds and even the p
 
 The build will contain two systems:
 
-     ```Mini-ITX system```
-     ```ATX / E-ATX system```
+- Mini-ITX system
+- ATX / E-ATX system
 
 ### Mini-ITX Build
 
-    ```AMD CPU with integrated graphics```
-    ```Needs to run multiple VM's```
-    ```Make custom vulnerable labs```
-    ```Run Proxmox```
-    ```SIEM Environment```
-    ```OT```
-    ```NAS```
-    ```ECC Memory```
-    ```High End Thermal paste instead of Liquid metal/Honeywells PTM```
-    ```Custom BIOS settings and switching trough the push of a button linked to on/off switch on the back of the case```
-    ```Needs to be reliable```
+- AMD CPU with integrated graphics
+- Needs to run multiple VM's
+- Make custom vulnerable labs
+- Run Proxmox
+- SIEM Environment
+- OT
+- NAS
+- ECC Memory
+- High End Thermal paste instead of Liquid metal/Honeywells PTM
+- Custom BIOS settings and switching trough the push of a button linked to on/off switch on the back of the case
+- Needs to be reliable
 
 ### ATX Build
 
@@ -41,9 +41,9 @@ The build will contain two systems:
 - Utilise all the fan mounts
 - Radiators
 
-#### Custom watercooling:
+#### Custom water cooling:
 
-Things to consider whilst building a custom waterloop and the items neccesary:
+Things to consider whilst building a custom water loop and the items necessary:
 
 - Cut of a piece of the tubing and experiment with the heat
 - Think out path for the tubes
@@ -52,8 +52,15 @@ Things to consider whilst building a custom waterloop and the items neccesary:
 - Use a jumper to test it without increasing risk of damaging components
 - The loops for each CPU and GPU need to be isolated
 - Paper Towel | Plastic Sheet | Paper Towel while testing
+- Distilled Water you can get it cheap.
+
+Corsair custom cooling
 
      https://www.corsair.com/us/en/s/hydro-x-series-custom-cooling
+
+Help with the pollutants in the cooling system
+
+     https://mayhems.store/mayhems-water-cooling-systems-inhibitor-and-hades-15ml.html
 
 Corsair xr7 v2 custom cooling radiator
 
@@ -119,12 +126,19 @@ Corsair iCUE LINK 9000D RGB AIRFLOW Super-Tower PC Case
 
 #### Case Fans
 
-Either I need to get a fan hub or consider buying the corsair daisy chain fans
+Either I need to get a fan hub or consider buying the corsair daisy chain fans. 120mm to fit with the radiator.
 
 Arctic P14 Pro
 
-
      https://www.arctic.de/en/P14-Pro/ACFAN00313A
+
+Corsair iCUE LINK RX120 MAX 120mm PWM Thick Fans Starter Kit
+
+     https://www.corsair.com/uk/en/p/case-fans/co-9051042-ww/icue-link-rx120-max-120mm-pwm-thick-fans-starter-kit-co-9051042-ww
+
+Corsair iCUE LINK RX120 MAX 120mm PWM Thick Fans Starter Kit
+
+     https://www.corsair.com/uk/en/p/case-fans/co-9051034-ww/icue-link-rx120-max-rgb-120mm-pwm-thick-fans-starter-kit-black-co-9051034-ww
 
 ### Mini-ITX Build
 
