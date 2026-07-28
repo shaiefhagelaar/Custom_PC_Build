@@ -103,9 +103,15 @@ Hydro X Series XT Pressure Leak Tester Tool Kit
 
      https://www.corsair.com/uk/en/p/custom-liquid-cooling/cx-9071002-ww/hydro-x-series-xt-pressure-leak-tester-tool-kit-cx-9071002-ww?position=13&queryID=c67cbdd87cc980da2c2a9383926c0294
 
-Hydro X Series XL5 Performance Coolant 1L — Purple
+Hydro X Series XL5 Performance Coolant 1L — Blue and White/Clear
 
-     https://www.corsair.com/uk/en/p/custom-liquid-cooling/cx-9060005-ww/hydro-x-series-xl5-performance-coolant-1l-aca-a-purple-cx-9060005-ww
+Blue
+
+     https://www.corsair.com/uk/en/p/custom-liquid-cooling/cx-9060004-ww/hydro-x-series-xl5-performance-coolant-1l-aca-a-blue-cx-9060004-ww?position=8&queryID=144c8c9dc63871701778f9be9047410e
+
+Clear
+
+     https://www.corsair.com/uk/en/p/custom-liquid-cooling/cx-9060001-ww/hydro-x-series-xl5-performance-coolant-1l-aca-a-clear-cx-9060001-ww
 
 Hydro X Series Filling Bottle
 
@@ -120,6 +126,12 @@ Channelz™ Corsair 9000D Distribution Plate 3-Piece Set
 No need for the cooling block that is situated above the PSU. The Mini-ITX will occupy the space where the custom water block should go.
 
      https://www.performance-pcs.com/products/channelz%E2%84%A2-corsair-9000d-distribution-plate-3-piece-set
+
+### Maintenance Water cooling loop
+
+Mayhems Inhibitor
+
+     https://mayhems.store/mayhems-water-cooling-systems-inhibitor-and-hades-15ml.html
 
 ## Case
 
@@ -151,11 +163,17 @@ The motherboard has plenty of capabilities and upgrade potential for quite some 
 
      https://www.asus.com/motherboards-components/motherboards/workstation/pro-ws-b850m-ace-se/
 
-### CPU AMD Ryzen™ 5 8600G Desktop Processor
+## AMD Ryzen 7 9700X Processor
 
-CPU is okay to start out with. Integrated GPU processer will cut cost significantly in the short run. I can still upgrade the processor to a AMD 9XXX series if I need more power. In the long run I will upgrade the CPU, rather have some more cores and threads instead of servers in the cloud. The CPU cooler will be upgraded in the future, I'll start off with the included AMD Wraith cooler.
+Was 8XXX changed it to a 9XXX series CPU with integrated graphics. It's is okay to start out with. Integrated GPU processer will cut cost significantly in the short run. I can still upgrade the processor to a AMD 9XXX series if I need more power. In the long run I will upgrade the CPU, rather have some more cores and threads instead of servers in the cloud. The CPU cooler will be upgraded in the future, I'll start off with the included AMD Wraith cooler.
+
+AMD 8XXX Series integrated GPU
 
      https://www.amd.com/en/products/processors/desktops/ryzen/8000-series/amd-ryzen-5-8600g.html
+
+AMD 9XXX Series integrated GPU
+
+     https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9700x.html
 
 ### Kingston FURY Beast Black DDR5 CL36 5600 MHz
 
@@ -177,12 +195,71 @@ Solid SSD no pun intended might consider 2TB.
 
      https://www.samsung.com/nl/memory-storage/nvme-ssd/990-evo-plus-1tb-nvme-pcie-gen-4-mz-v9s1t0bw/
 
-### GPU ASUS Dual Radeon RX 7600 OC Edition
 
-Consider getting a riser cable need to keep in mind that the case holds two systems. So there might not be enough space for air-cooled GPU's. I can consider upgrading it to a GPU that doesn't need too much wattage, the PSU delivers a maximum of 750 watts KEEP THAT IN MIND.
+### GPU + Cooling Block
 
-     https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rx7600-o8g/
+GPU Gigabyte Radeon RX 9070 XT Aorus Elite 16GB
+
+     https://www.aorus.com/nl-nl/graphics-cards/gv-r9070xtaorus-e-16gd/Key-Features
+
+GPU cooling block
+
+     https://shop.alphacool.com/en/shop/gpu-water-cooling/amd/14780-alphacool-core-rx-9070-xt-aorus-elite-with-backplate
 
 ## ATX/E-ATX Build
 
 Coming soon...
+
+
+## Notes
+
+- For watercooling the GPU take in mind where which screws it takes
+- Thermal Pads for the GPU is something I need to figure out, some of the waterblocks come pre- applied pads/thermal paste
+
+## Motherboard
+
+Old skool for the new fool check out the link in the description below! FtLulz
+
+     https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-2006/
+
+## CPU  AMD Ryzen 7 9850X3D Processor
+
+Pre-overclocked good fit for the whole ATX build.
+
+     https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9850x3d.html
+
+## GPU
+
+
+
+## PSU & Cables
+
+Since I'm going
+
+PSU ASUS ROG Strix 1200W Gold Aura Edition PSU / PC
+
+     https://rog.asus.com/power-supply-units/rog-strix/rog-strix-1200g-aura-gaming-model/
+
+Cable Mods cablemod pro modmesh rt series cable kit black blue
+
+     https://cablemod.com/product/cablemod-pro-modmesh-rt-series-cable-kit-black-blue/
+
+## NMVe SSD PCIe 5.0 1TB - 2TB (CPU)
+
+## NMVe SSD PCIe 4.0 2TB - 4TB (Gaming)
+
+## 2,5 inch SATA SSD (Storage redundancy)
+
+## RAM 32GB 5600 - 6000 MHz CL30 AMD Expo Profile
+
+RAM G.Skill Trident Z5 Neo F5-6000J3038F16GX2-TZ5N
+
+     https://www.gskill.com/product/165/393/1661410171/F5-6000J3038F16GX2-TZ5N
+
+## Peripherals
+
+- Two keyboards
+- Two Mice
+- Big Screen (KVM Switch)
+- Decent desk
+- Big case so consider a custom made table/rack might come in handy to mount other systems/network switches
