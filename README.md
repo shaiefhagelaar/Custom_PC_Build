@@ -46,6 +46,7 @@ The build will contain two systems:
 
 Things to consider whilst building a custom water loop and the items necessary:
 
+- RAM Cooling
 - Cut of a piece of the tubing and experiment with the heat
 - Think out path for the tubes
 - Distance = cooling
@@ -126,6 +127,8 @@ Channelz™ Corsair 9000D Distribution Plate 3-Piece Set
 No need for the cooling block that is situated above the PSU. The Mini-ITX will occupy the space where the custom water block should go.
 
      https://www.performance-pcs.com/products/channelz%E2%84%A2-corsair-9000d-distribution-plate-3-piece-set
+
+## 
 
 ### Maintenance Water cooling loop
 
@@ -230,7 +233,13 @@ Pre-overclocked good fit for the whole ATX build.
 
 ## GPU
 
+GPU ROG Astral GeForce RTX™ 5080 16GB GDDR7 OC Edition
 
+     https://rog.asus.com/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5080-o16g-gaming/
+
+GPU Alphacool Core Geforce RTX 5080 ROG Astral with Backplate
+
+     https://shop.alphacool.com/en/shop/gpu-water-cooling/nvidia/10267-alphacool-core-geforce-rtx-5080-rog-astral-with-backplate
 
 ## PSU & Cables
 
