@@ -350,22 +350,50 @@ Samsung 990 PRO 2TB M.2 SSD
 
      https://www.megekko.nl/product/5093/293108/SSD-M-2/Samsung-990-EVO-PLUS-1TB-M-2-SSD
 
+Amount: x 1     
+
+Current price : €349,-
+
+Total price: €349,-
+
+Total amount of NVMe SSD: 1
+
 ### GPU + Cooling Block
 
 GPU Gigabyte Radeon RX 9070 XT Aorus Elite 16GB
 
      https://www.aorus.com/nl-nl/graphics-cards/gv-r9070xtaorus-e-16gd/Key-Features
 
+Amount: x 1     
+
+Current price : €829,-
+
+Total price: €829,-
+
+Total amount of GPU: 1
+
 GPU cooling block
 
      https://shop.alphacool.com/en/shop/gpu-water-cooling/amd/14780-alphacool-core-rx-9070-xt-aorus-elite-with-backplate
+
+Amount: x 1     
+
+Current price : €219,98
+
+Total price: €219,98
+
+Total amount of GPU Cooling Block: 1
+
+####
+
+Total Price of everything listed above: €7237,55
 
 ## ATX/E-ATX Build
 
 ## Notes
 
-- For watercooling the GPU take in mind where which screws it takes
-- Thermal Pads for the GPU is something I need to figure out, some of the waterblocks come pre- applied pads/thermal paste
+- For water cooling the GPU take in mind where which screws it takes
+- Thermal Pads for the GPU is something I need to figure out, some of the water blocks come pre- applied pads/thermal paste
 
 ## Motherboard
 
@@ -373,11 +401,27 @@ Old skool for the new fool check out the link in the description below! FtLulz
 
      https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-2006/
 
+Amount: x 1     
+
+Current price : €779,-
+
+Total price: €779,-
+
+Total amount of Motherboard: 1
+
 ## CPU  AMD Ryzen 7 9850X3D Processor
 
 Pre-overclocked good fit for the whole ATX build.
 
      https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9850x3d.html
+
+Amount: x 1     
+
+Current price : €449,-
+
+Total price: €449,-
+
+Total amount of CPU: 1
 
 ## GPU
 
@@ -385,9 +429,25 @@ GPU ROG Astral GeForce RTX™ 5080 16GB GDDR7 OC Edition
 
      https://rog.asus.com/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5080-o16g-gaming/
 
+Amount: x 1     
+
+Current price : €1899,-
+
+Total price: €1899,-
+
+Total amount of GPU: 1
+
 GPU Alphacool Core Geforce RTX 5080 ROG Astral with Backplate
 
      https://shop.alphacool.com/en/shop/gpu-water-cooling/nvidia/10267-alphacool-core-geforce-rtx-5080-rog-astral-with-backplate
+
+Amount: x 1     
+
+Current price : €219,98
+
+Total price: €219,98
+
+Total amount of GPU: 1
 
 ## PSU & Cables
 
@@ -397,13 +457,57 @@ PSU ASUS ROG Strix 1200W Gold Aura Edition PSU / PC
 
      https://rog.asus.com/power-supply-units/rog-strix/rog-strix-1200g-aura-gaming-model/
 
+Amount: x 1     
+
+Current price : €312,95
+
+Total price: €312,95
+
+Total amount of PSU: 1
+
 Cable Mods cablemod pro modmesh rt series cable kit black blue
 
      https://cablemod.com/product/cablemod-pro-modmesh-rt-series-cable-kit-black-blue/
 
+
+Amount: x 1     
+
+Current price : €175,-
+
+Total price: €175,-
+
+Total amount of PSU: 1
+
 ## NMVe SSD PCIe 5.0 1TB - 2TB (CPU)
 
+Samsung 990 PRO 2TB M.2 SSD 
+
+     https://www.megekko.nl/product/5093/293108/SSD-M-2/Samsung-990-EVO-PLUS-1TB-M-2-SSD
+
+Amount: x 1     
+
+Current price : €359,-
+
+Total price: €359,-
+
+Total amount of NVMe SSD: 1
+
+### GPU + Cooling Block
+
 ## NMVe SSD PCIe 4.0 2TB - 4TB (Gaming)
+
+
+     https://www.megekko.nl/product/5093/293118/SSD-M-2/Samsung-990-EVO-PLUS-4TB-M-2-SSD
+
+Amount: x 1     
+
+Current price : €549,-
+
+Total price: €549,-
+
+Total amount of NVMe SSD: 1
+
+### GPU + Cooling Block
 
 ## 2,5 inch SATA SSD (Storage redundancy)
 
@@ -412,6 +516,22 @@ Cable Mods cablemod pro modmesh rt series cable kit black blue
 RAM G.Skill Trident Z5 Neo F5-6000J3038F16GX2-TZ5N
 
      https://www.gskill.com/product/165/393/1661410171/F5-6000J3038F16GX2-TZ5N
+
+RAM
+
+     https://www.megekko.nl/product/7962/1070094/DDR5-Geheugen/G-Skill-DDR5-Trident-Z-Neo-2x16GB-6000-F5-6000J3038F16GX2-TZ5N-geheugenmodule
+
+Amount: x 1     
+
+Current price : €509,-
+
+Total price: €509,-
+
+Total amount of NVMe SSD: 1
+
+## Total amount
+
+Current price : €12.499,48
 
 ## Peripherals
 
