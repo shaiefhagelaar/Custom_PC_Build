@@ -198,11 +198,19 @@ Hydro X Series XL5 Performance Coolant 1L — Blue and White/Clear
 
 Blue
 
-     https://www.corsair.com/uk/en/p/custom-liquid-cooling/cx-9060004-ww/hydro-x-series-xl5-performance-coolant-1l-aca-a-blue-cx-9060004-ww?position=8&queryID=144c8c9dc63871701778f9be9047410e
-
+     https://www.corsair.com/eu/en/p/custom-liquid-cooling/cx-9060004-ww/hydro-x-series-xl5-performance-coolant-1l-aca-a-blue-cx-9060004-ww
+     
 Clear
 
-     https://www.corsair.com/uk/en/p/custom-liquid-cooling/cx-9060001-ww/hydro-x-series-xl5-performance-coolant-1l-aca-a-clear-cx-9060001-ww
+     https://www.corsair.com/eu/en/p/custom-liquid-cooling/cx-9060001-ww/hydro-x-series-xl5-performance-coolant-1l-aca-a-clear-cx-9060001-ww?position=56&queryID=d655fe62c129c030b4b5cb6301bf9740
+
+Amount: x 4     
+
+Current price : €16.90
+
+Total price: €67,60
+
+Total amount of coolant: 4
 
 Hydro X Series Filling Bottle
 
@@ -299,13 +307,19 @@ Current Price:  €62,49
 
 Depending on how much clearance I have between the two systems I might need to consider demounting the CPU fan attached to the heat sink.
 
-
-
 ### Kingston FURY Beast Black DDR5 CL36 5600 MHz
 
 16 GB of Dual Channel is more than enough to 
 
-     https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr5-memory?speed=5600mt%2Fs&total%20(kit)%20capacity=16gb&kit=kit%20of%202&cas%20latency=36&dram%20density=16gbit&profile%20type=amd%20expo%20%2F%20intel%20xmp&color=black
+     https://www.alternate.nl/Kingston-FURY/Beast-16-GB-DDR5-6000-2x-8-GB-werkgeheugen/html/product/1893149
+
+Amount: x 1     
+
+Current price : €291,00
+
+Total price: €291,00
+
+Total amount of RAM: 1
 
 ### PSU Seasonic Focus SGX-750 Modulair SFX
 
@@ -314,6 +328,17 @@ Depending on how much clearance I have between the two systems I might need to c
 For the PSU just had to consider that it's modulair and SFX see:
 
      https://www.corsair.com/us/en/explorer/diy-builder/power-supply-units/power-supply-form-factors-and-sizes-explained/
+     
+
+Amount: x 1     
+
+Current price : €149,90
+
+Total price: €149,90
+
+Total amount of SFX-PSU: 1
+
+     https://www.megekko.nl/product/4186/243835/PC-Voedingen-PSU-/Seasonic-Focus-SGX-750-PSU-PC-voeding
 
 ### 990 EVO Plus NVMe™ M.2 SSD 1TB
 
@@ -321,6 +346,9 @@ Solid SSD no pun intended might consider 2TB.
 
      https://www.samsung.com/nl/memory-storage/nvme-ssd/990-evo-plus-1tb-nvme-pcie-gen-4-mz-v9s1t0bw/
 
+Samsung 990 PRO 2TB M.2 SSD 
+
+     https://www.megekko.nl/product/5093/293108/SSD-M-2/Samsung-990-EVO-PLUS-1TB-M-2-SSD
 
 ### GPU + Cooling Block
 
@@ -333,9 +361,6 @@ GPU cooling block
      https://shop.alphacool.com/en/shop/gpu-water-cooling/amd/14780-alphacool-core-rx-9070-xt-aorus-elite-with-backplate
 
 ## ATX/E-ATX Build
-
-Coming soon...
-
 
 ## Notes
 
