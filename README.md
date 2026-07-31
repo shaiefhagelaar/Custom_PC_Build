@@ -531,7 +531,7 @@ Total amount of NVMe SSD: 1
 
 ## Total amount
 
-Current price : €12.499,48
+All the parts: €12.499,48
 
 ## Peripherals
 
