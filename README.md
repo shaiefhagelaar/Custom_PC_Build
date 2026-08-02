@@ -17,6 +17,10 @@ Would be a good thing to look up to replace some of the more expensive parts thr
 
      https://www.performance-pcs.com/
 
+An alternative for the case:
+
+     https://www.performance-pcs.com/products/obsidian-series-1000d-super-tower-case
+
 ## Mini-ITX Build
 
 - AMD CPU with integrated graphics
