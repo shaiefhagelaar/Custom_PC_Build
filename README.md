@@ -13,6 +13,10 @@ The build will contain two systems:
 - Mini-ITX system
 - ATX / E-ATX system
 
+Would be a good thing to look up to replace some of the more expensive parts through: 
+
+     https://www.performance-pcs.com/
+
 ## Mini-ITX Build
 
 - AMD CPU with integrated graphics
